@@ -14,7 +14,6 @@ This project focuses on understanding **React fundamentals**, **API integration*
 - Usage
 - What I Learned
 - Future Improvements
-- License
 
 ---
 
@@ -44,18 +43,25 @@ Make sure you have the following installed:
 
 ---
 
-### Installation
-1. Clone the repository:
-   git clone https://github.com/sunny-kumar12/Movie-Recommendation-app.git
+### 1. Clone the repository
+```bash
+git clone https://github.com/sunny-kumar12/Movie-Recommendation-app.git
+```
+
 
 2. Navigate to the project folder:
+```bash
 cd Movie-Recommendation-app
-
+```
 3. Install dependencies:
+```
 npm install
+```
 
 4. Start the development server:
+```
 npm start
+```
 
 5.Open your browser and visit:
 http://localhost:3000
