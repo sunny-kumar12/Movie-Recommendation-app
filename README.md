@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation App (React)
 
-![Movie Recommendation App Screenshot](./screenshot.png)
+![MovieRecommedation-project](./MovieAppSS.png)
 
 A React-based web application that allows users to search for movies and view detailed information using the OMDB API.  
 This project focuses on understanding **React fundamentals**, **API integration**, and **component-based UI development**.
